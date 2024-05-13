@@ -35,23 +35,15 @@ The webtime tracker tracks the user's web activities throughout the day. It disp
 <!-- Create a grid container using HTML -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-<!-- Add each image within a div -->
 <div>
-  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(304)1.png?raw=true" alt="Image 1" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(304)1.png?raw=true" alt="Image 1" width="400">
+  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(305)1.png?raw=true" alt="Image 2" width="400">
 </div>
 
+<!-- Second Row -->
 <div>
-  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(305)1.png?raw=true" alt="Image 2" style="max-width: 100%; height: auto;">
-</div>
-
-<div>
-  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(306)1.png?raw=true" alt="Image 3" style="max-width: 100%; height: auto;">
-</div>
-
-<div>
-  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(307)1.png?raw=true" alt="Image 4" style="max-width: 100%; height: auto;">
-</div>
-
+  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(306)1.png?raw=true" alt="Image 3" width="400">
+  <img src="https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(307)1.png?raw=true" alt="Image 4" width="400">
 </div>
 
 
