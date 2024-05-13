@@ -1,4 +1,4 @@
-# Automatic Productivity Webtime Tracker
+# eLitmus project (Time Tracker) #RohithChowki
 
 ![image](https://github.com/JasonChen1203/auto-productivity-tracker/blob/main/public/demo.png?raw=true)
 
