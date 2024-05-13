@@ -78,5 +78,4 @@ This chrome extension is currently in the process of migrating from manifest v2 
 
 The extension is loaded and can be used.
 
-![image](https://github.com/JasonChen1203/auto-productivity-tracker/blob/main/public/demo_01.png?raw=true)
 
