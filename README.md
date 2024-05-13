@@ -1,11 +1,20 @@
 # eLitmus project (Time Tracker) #RohithChowki
 
-## creating account
 
-![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(308).png?raw=true)
 
 A chrome extension which is developed for a eLimtus assessment that track the user's web activities throughout the day and record their time on websites that they deem productive or unproductive. The app contains options such as pausing/continuing tracking web activities, clearing all web data, and changing the amount of time the app will stop tracking after the user has gone idle.
 Any user with email and password can create an account and then he can view his personal dashboard , The dashboard contains a sidenav and it contains navitems 'History' , 'Productive, 'Plotview' and 'Feedback'
+## Creating account
+
+![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(308).png?raw=true)
+
+## Main page 
+
+![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(297).png?raw=true)
+
+## Dasboard
+
+![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(297).png?raw=true)
 
 ## Functionalities & Usage
 
