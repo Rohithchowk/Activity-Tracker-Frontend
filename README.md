@@ -1,6 +1,6 @@
 # eLitmus project (Time Tracker) #RohithChowki
 
-![image](https://github.com/JasonChen1203/auto-productivity-tracker/blob/main/public/demo.png?raw=true)
+## creating account
 
 ![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(308).png?raw=true)
 
