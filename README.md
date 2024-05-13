@@ -9,10 +9,21 @@ Any user with email and password can create an account and then he can view his 
 
 The webtime tracker tracks the user's web activities throughout the day. It displays the data on a donut chart, followed by a list that shows the user's spent time on each website. The app has 2 more tabs, where the user can add or remove websites that they deem productive or unproductive. It is an useful tool that records the user's browing activities, and illustrates the user's productivity on the web. The user can navigate to Dashboard and then he can click on the navitem that he wants , there are 4 navitems 
 
-1.(Navitem 1)History , in this tab , all the website names and time usage is displayed in a tabular format ( a mui table).
-2.(Navitem 2)Productive , in this tab , a graph and pie chart  is shown to you, plotting productive time usage and unproductive time usage data
-3.(Navitem 3)Plot-view , in this tab , a piechart, and line chart , is displayed , with all websites and its time usage plot.
-4.(Navitem 4)Feedback , here the website gives a feedback based on the time he spent on browser .
+
+
+
+
+1. **Dashboard:** Users can access the dashboard, which offers four main navigation items:
+
+    - **History (Navitem 1):** Displays website names and time usage in a tabular format using a Material-UI (MUI) table.
+    
+    - **Productive (Navitem 2):** Shows a graph and pie chart illustrating productive and unproductive time usage data.
+    
+    - **Plot-view (Navitem 3):** Presents a pie chart and line chart depicting time usage for all websites.
+    
+    - **Feedback (Navitem 4):** Provides feedback based on the user's browsing activity.
+
+
 
 The time tracker data is continously upserted into sql and mongodb . so that he can view anytime whenever he wants , by logging in and navigating to dashboard .
 
