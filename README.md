@@ -12,9 +12,7 @@ Any user with email and password can create an account and then he can view his 
 
 ![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(297).png?raw=true)
 
-## Dasboard
 
-![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(297).png?raw=true)
 
 ## Functionalities & Usage
 
@@ -33,6 +31,11 @@ The webtime tracker tracks the user's web activities throughout the day. It disp
     - **Plot-view (Navitem 3):** Presents a pie chart and line chart depicting time usage for all websites.
     
     - **Feedback (Navitem 4):** Provides feedback based on the user's browsing activity.
+  
+![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(304)1.png?raw=true)
+![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(305)1.png?raw=true)
+![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(306)1.png?raw=true)
+![image](https://github.com/Rohithchowk/eLitmusprojectfinal/blob/main/screenshots/Screenshot%20(307)1.png?raw=true)
 
 
 
